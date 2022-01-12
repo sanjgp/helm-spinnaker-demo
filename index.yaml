@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  nginx:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-01-12T20:16:48.7138923+05:30"
+    description: A Helm chart for Kubernetes
+    digest: f0ae748aacc6ae342cbd7e81b06b086275dc48b9a28affeb6fa44bd923582e40
+    name: nginx
+    type: application
+    urls:
+    - https://github.com/sanjgp/helm-spinnaker-demo/tree/master/charts/nginx/nginx-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-01-12T20:16:48.7124652+05:30"
